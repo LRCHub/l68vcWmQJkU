@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "return",
+  "base_artist": "LOLUET",
+  "createdAt": "2026-03-03T08:27:09.300116Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Return of the Grievous Angel",
+      "artist": "Gram Parsons",
+      "has_synced": false,
+      "path": "select/01_Return_of_the_Grievous_Angel_Gram_Parsons.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Return of the Grievous Angel (2006 Remaster)",
+      "artist": "Gram Parsons",
+      "has_synced": false,
+      "path": "select/02_Return_of_the_Grievous_Angel_(2006_Remaster)_Gram_Parsons.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "梦回唐朝 (A Dream Return to Tang Dynasty)",
+      "artist": "唐朝",
+      "has_synced": false,
+      "path": "select/03_梦回唐朝_(A_Dream_Return_to_Tang_Dynasty)_唐朝.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby Phife's Return",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/04_Baby_Phife's_Return_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Return",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/05_Return_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Grand Return",
+      "artist": "The Roots feat. Dice Raw & Wadud Ahmad",
+      "has_synced": false,
+      "path": "select/06_The_Grand_Return_The_Roots_feat._Dice_Raw_&_Wadud_Ahmad.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Grand Return (Feat. Dice Raw & Wadud Ahmad)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/07_The_Grand_Return_(Feat._Dice_Raw_&_Wadud_Ahmad)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Return to Innocence Lost",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/08_The_Return_to_Innocence_Lost_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Return to Patagonia",
+      "artist": "Lemon Jelly",
+      "has_synced": false,
+      "path": "select/09_Return_to_Patagonia_Lemon_Jelly.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Soft Return",
+      "artist": "Labradford",
+      "has_synced": false,
+      "path": "select/10_Soft_Return_Labradford.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Return of the B-Boy",
+      "artist": "Mr. Lif",
+      "has_synced": false,
+      "path": "select/11_Return_of_the_B-Boy_Mr._Lif.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Return To Sender",
+      "artist": "Mojave 3",
+      "has_synced": true,
+      "path": "select/12_Return_To_Sender_Mojave_3.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Return to Yesterday",
+      "artist": "Monster Movie",
+      "has_synced": false,
+      "path": "select/13_Return_to_Yesterday_Monster_Movie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "River of No Return",
+      "artist": "Marilyn Monroe",
+      "has_synced": true,
+      "path": "select/14_River_of_No_Return_Marilyn_Monroe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "return",
+      "artist": "LOLUET",
+      "has_synced": false,
+      "path": "select/pl_01_return_LOLUET.txt"
+    }
+  ]
+}
